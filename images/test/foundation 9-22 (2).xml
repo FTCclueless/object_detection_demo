@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Testing Images</folder>
+	<filename>foundation 9-22 (2).jpg</filename>
+	<path>C:\Users\Edmund\Documents\FTC 2019-2020\Python Tensorflow\Datasets\Foundation\Labeled Foundation\Testing Images\foundation 9-22 (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red foundation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>528</xmin>
+			<ymin>313</ymin>
+			<xmax>3178</xmax>
+			<ymax>2357</ymax>
+		</bndbox>
+	</object>
+</annotation>
