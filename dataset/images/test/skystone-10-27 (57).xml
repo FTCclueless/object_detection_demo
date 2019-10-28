@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Testing Images</folder>
+	<filename>skystone-10-27 (57).jpg</filename>
+	<path>C:\Users\Edmund\Documents\FTC 2019-2020\Python Tensorflow\Datasets\SkyStone\Testing Images\skystone-10-27 (57).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skystone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>1380</ymin>
+			<xmax>1488</xmax>
+			<ymax>2197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>skystone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1678</xmin>
+			<ymin>1247</ymin>
+			<xmax>2865</xmax>
+			<ymax>2040</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymin>1077</ymin>
+			<xmax>1418</xmax>
+			<ymax>1367</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3042</xmin>
+			<ymin>1093</ymin>
+			<xmax>4105</xmax>
+			<ymax>1940</ymax>
+		</bndbox>
+	</object>
+</annotation>
