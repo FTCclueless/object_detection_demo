@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raw</folder>
+	<filename>ring (5).jpg</filename>
+	<path>C:\Users\edsum\Documents\FTC 2020-2021\TFOD\Rings\Testing\Raw\ring (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FourStack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1972</xmin>
+			<ymin>673</ymin>
+			<xmax>2527</xmax>
+			<ymax>1231</ymax>
+		</bndbox>
+	</object>
+</annotation>

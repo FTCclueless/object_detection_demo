@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Raw</folder>
+	<filename>ring (29).jpg</filename>
+	<path>C:\Users\edsum\Documents\FTC 2020-2021\TFOD\Rings\Training\Raw\ring (29).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OneStack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2092</xmin>
+			<ymin>1241</ymin>
+			<xmax>2598</xmax>
+			<ymax>1647</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FourStack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1660</xmin>
+			<ymin>1512</ymin>
+			<xmax>2260</xmax>
+			<ymax>2131</ymax>
+		</bndbox>
+	</object>
+</annotation>
